@@ -1,5 +1,7 @@
 # DJS03 Project Brief: Book Connect - Abstractions
 
+[Loom Video Presentation:https://www.loom.com/share/613f660be73443a288233534fe94869a?sid=81253425-4f85-46ce-994a-98a3a469cac0]
+
 Dive into the delightful world of "Book Connect," where literary adventures await at your fingertips! Browse, explore, and uncover your next great read from a vast, vibrant collection. Whether you're a fan of thrilling mysteries, epic fantasies, or heartwarming romances, "Book Connect" brings the magic of books directly to you. Happy reading! 
 
 The "Book Connect" project provides an opportunity for students to refine a fully functional version of an application. The focus of this project is to enhance the code's maintainability, extendibility, and readability by applying concepts of objects and functions for abstraction. This will not only streamline future modifications but also consolidate students' understanding of higher-level programming concepts, including documentation, Styleguides, and abstraction principles.
